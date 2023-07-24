@@ -1,0 +1,19 @@
+.homePage {
+    /* border: 2px solid blue; */
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    /* background-color: rgb(187, 247, 239); */
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.homeTitle {
+    margin: 0;
+    padding-top: 60px;
+    font-size: 40px;
+    font-weight: 800;
+    color: greenyellow;
+}
