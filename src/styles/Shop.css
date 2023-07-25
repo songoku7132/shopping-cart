@@ -40,10 +40,10 @@
 
 img {
     height: 400px;
-    width: 400px;
+    /* width: 400px; */
 }
 
 .addProduct {
-    border: 2px solid red;
+    /* border: 2px solid red; */
     width: 100%;
 }
